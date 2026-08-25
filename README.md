@@ -1,5 +1,4 @@
 # Student-Life-Manager-Application
 A Student Life Manager built with JavaFX and XAMPP/MySQL
 
-<img width="1677" height="938" alt="ChatGPT Image Aug 24, 2026, 11_14_07 PM" src="https://github.com/user-attachments/assets/b1babc18-9fcf-458b-bb43-8f454d06b098" />
-
+<img width="2048" height="1152" alt="interface_project" src="https://github.com/user-attachments/assets/0cd500a5-91c0-4172-888a-6a803ff520a2" />
